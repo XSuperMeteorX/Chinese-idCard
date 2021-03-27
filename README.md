@@ -1,6 +1,6 @@
 # 获取身份证信息
 
-[![Build Status via Travis CI](https://travis-ci.org/xsupermeteorx/chinese-chinese-idcard-generator-generator.svg?branch=master)](https://travis-ci.org/xsupermeteorx/chinese-idcard-generator) [![Coverage Status](https://coveralls.io/repos/github/xsupermeteorx/chinese-idcard-generator/badge.svg?branch=master)](https://coveralls.io/github/xsupermeteorx/chinese-idcard-generator?branch=master) [![NPM version](https://badge.fury.io/js/chinese-idcard-generator.png)](http://badge.fury.io/js/chinese-idcard-generator)
+[![Build Status via Travis CI](https://travis-ci.org/xsupermeteorx/chinese-idcard-generator.svg?branch=master)](https://travis-ci.org/xsupermeteorx/chinese-idcard-generator) [![Coverage Status](https://coveralls.io/repos/github/XSuperMeteorX/Chinese-idcard/badge.svg?branch=master)](https://coveralls.io/github/XSuperMeteorX/Chinese-idcard?branch=master) [![NPM version](https://badge.fury.io/js/chinese-idcard-generator.png)](http://badge.fury.io/js/chinese-idcard-generator)
 
 ### 安装:
 
